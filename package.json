@@ -1,0 +1,23 @@
+{
+  "name": "weather-app-project",
+  "version": "1.0.0",
+  "description": "Weather App Project that helps you decide what to wear based on the forecast in your area.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindseyLowther44/Weather-App-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LindseyLowther44/Weather-App-Project/issues"
+  },
+  "homepage": "https://github.com/LindseyLowther44/Weather-App-Project#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "lodash": "^4.17.20"
+  }
+}
